@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Gavras:MultiLineRadioGroup:v1.0.0.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/d48c44ba30b3b0186e393de6b6e8d0ed/jetified-MultiLineRadioGroup-v1.0.0.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/d48c44ba30b3b0186e393de6b6e8d0ed/jetified-MultiLineRadioGroup-v1.0.0.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/d48c44ba30b3b0186e393de6b6e8d0ed/jetified-MultiLineRadioGroup-v1.0.0.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.github.Gavras/MultiLineRadioGroup/v1.0.0.6/677a8d286527a7953523aebfdab5bed0813456b7/MultiLineRadioGroup-v1.0.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

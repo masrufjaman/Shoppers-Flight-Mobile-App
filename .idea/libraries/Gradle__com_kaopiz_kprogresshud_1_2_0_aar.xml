@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kaopiz:kprogresshud:1.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/0e870986d8d3db95ca83d949bca6a759/jetified-kprogresshud-1.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/0e870986d8d3db95ca83d949bca6a759/jetified-kprogresshud-1.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/0e870986d8d3db95ca83d949bca6a759/jetified-kprogresshud-1.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.kaopiz/kprogresshud/1.2.0/19e35775be188511ec306ee2d0a63d766893643f/kprogresshud-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.kaopiz/kprogresshud/1.2.0/5907dc44097acb69faa6dfc0570f392e1aa14293/kprogresshud-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

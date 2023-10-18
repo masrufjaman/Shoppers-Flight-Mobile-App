@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.florent37:materialtextfield:1.0.7@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/b6907baa4b66b1aa73542f13c7573895/jetified-materialtextfield-1.0.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/b6907baa4b66b1aa73542f13c7573895/jetified-materialtextfield-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/b6907baa4b66b1aa73542f13c7573895/jetified-materialtextfield-1.0.7/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.github.florent37/materialtextfield/1.0.7/2d625ae2d84820b023b8409ef34b0047f89584f3/materialtextfield-1.0.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.github.florent37/materialtextfield/1.0.7/8c3c4ac87add91016e79ce875170d5fcdd1ff9c6/materialtextfield-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

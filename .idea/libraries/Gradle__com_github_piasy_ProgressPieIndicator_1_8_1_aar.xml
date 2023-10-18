@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.piasy:ProgressPieIndicator:1.8.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/98bdcb63274e89b5cd75fa81aff7388a/jetified-ProgressPieIndicator-1.8.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/98bdcb63274e89b5cd75fa81aff7388a/jetified-ProgressPieIndicator-1.8.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/98bdcb63274e89b5cd75fa81aff7388a/jetified-ProgressPieIndicator-1.8.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.github.piasy/ProgressPieIndicator/1.8.1/f7fe812f7617107ee6d9390a23f836dadc7cf2b/ProgressPieIndicator-1.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

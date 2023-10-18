@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.appcompat:appcompat:1.6.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/b6abc77fdf47ba0da4760e7f1292007f/appcompat-1.6.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/b6abc77fdf47ba0da4760e7f1292007f/appcompat-1.6.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/b6abc77fdf47ba0da4760e7f1292007f/appcompat-1.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/b6abc77fdf47ba0da4760e7f1292007f/appcompat-1.6.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.6.0/2c9782a4e520547e9c09103d11207a6253c7b74c/appcompat-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

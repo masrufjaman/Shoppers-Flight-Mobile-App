@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.owater.library:CircleTextViewlibrary:0.8.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/b40fc5798e3e3568abc233d59bc6ce0b/jetified-CircleTextViewlibrary-0.8.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/b40fc5798e3e3568abc233d59bc6ce0b/jetified-CircleTextViewlibrary-0.8.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/b40fc5798e3e3568abc233d59bc6ce0b/jetified-CircleTextViewlibrary-0.8.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.owater.library/CircleTextViewlibrary/0.8.3/554a47a7b4c5e8e61d4513c154a1bb3878f90aea/CircleTextViewlibrary-0.8.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.owater.library/CircleTextViewlibrary/0.8.3/66b77172d39b64446389682485a2bef69a54a81c/CircleTextViewlibrary-0.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

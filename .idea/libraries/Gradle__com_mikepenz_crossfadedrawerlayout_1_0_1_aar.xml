@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:crossfadedrawerlayout:1.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/795e684945fe5b1e7e0b464c8627a21e/jetified-crossfadedrawerlayout-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/795e684945fe5b1e7e0b464c8627a21e/jetified-crossfadedrawerlayout-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/795e684945fe5b1e7e0b464c8627a21e/jetified-crossfadedrawerlayout-1.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.mikepenz/crossfadedrawerlayout/1.0.1/6653ff540f1a92e1c8426a2ce93a5bbcad4c3012/crossfadedrawerlayout-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.mikepenz/crossfadedrawerlayout/1.0.1/1492100e89724c94c135b865082b498ea8a8119f/crossfadedrawerlayout-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.codesgood:justifiedtextview:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/bf6a750aa596406cf9ef36fa02a60aa2/jetified-justifiedtextview-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/bf6a750aa596406cf9ef36fa02a60aa2/jetified-justifiedtextview-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/bf6a750aa596406cf9ef36fa02a60aa2/jetified-justifiedtextview-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.codesgood/justifiedtextview/1.1.0/70745d87100791975a49b4e2c2c0879e37ffcaec/justifiedtextview-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.codesgood/justifiedtextview/1.1.0/aad663518622a4741718eb213d0080e3c74b77f5/justifiedtextview-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

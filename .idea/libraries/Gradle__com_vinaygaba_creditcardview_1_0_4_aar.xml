@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vinaygaba:creditcardview:1.0.4@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/f59a272ff65c1c7ba630f0ccb71308a5/jetified-creditcardview-1.0.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/f59a272ff65c1c7ba630f0ccb71308a5/jetified-creditcardview-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/f59a272ff65c1c7ba630f0ccb71308a5/jetified-creditcardview-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/f59a272ff65c1c7ba630f0ccb71308a5/jetified-creditcardview-1.0.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.vinaygaba/creditcardview/1.0.4/2d48c9e50f37e8ee7708f72eea47f65de7631257/creditcardview-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.vinaygaba/creditcardview/1.0.4/7de035ef33f863628bdca1ffb0e391f0835d7a04/creditcardview-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

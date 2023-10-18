@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.daimajia.androidanimations:library:2.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/7b6c7fb7c9b7b525209ebfc8ac81422b/jetified-library-2.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/7b6c7fb7c9b7b525209ebfc8ac81422b/jetified-library-2.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/transforms-2/files-2.1/7b6c7fb7c9b7b525209ebfc8ac81422b/jetified-library-2.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.daimajia.androidanimations/library/2.4/aec1cff1fe060724a1bb50fe5c5274409f9aabd3/library-2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/gradle-6.9.2-all/gradle-6.9.2/caches/modules-2/files-2.1/com.daimajia.androidanimations/library/2.4/d3b35f8478c2c7e6225c8dcde48caeeecc9dc5b3/library-2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
